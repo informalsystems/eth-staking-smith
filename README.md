@@ -148,7 +148,7 @@ cargo test
 ```
 
 ## E2E Tests
-To test our code e2e, we've generated files using the [staking deposit cli v2.3.0](https://github.com/ethereum/staking-deposit-cli/releases/tag/v2.3.0) and are comparing the outputs during our tests. This is to guarantee that we're meeting the same criteria. Further error cases are checked in unit tests within the dedicated modules.
+To test our code e2e, we've generated files using the [staking deposit cli v2.7.0](https://github.com/ethereum/staking-deposit-cli/releases/tag/v2.7.0) and are comparing the outputs during our tests. This is to guarantee that we're meeting the same criteria. Further error cases are checked in unit tests within the dedicated modules.
 
 # Glossary
 
