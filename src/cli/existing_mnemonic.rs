@@ -156,7 +156,7 @@ pub fn run<'a>(sub_match: &ArgMatches<'a>) {
             chain.to_string(),
             withdrawal_credentials,
             32_000_000_000,
-            "2.3.0".to_string(),
+            "2.7.0".to_string(),
             chain_spec_file,
         )
         .unwrap()
